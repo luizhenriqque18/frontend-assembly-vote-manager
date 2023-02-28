@@ -1,5 +1,10 @@
 # FrontendAssemblyVoteManager
 
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=luizhenriqque18_frontend-assembly-vote-manager&metric=coverage)](https://sonarcloud.io/summary/new_code?id=luizhenriqque18_frontend-assembly-vote-manager)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=luizhenriqque18_frontend-assembly-vote-manager&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=luizhenriqque18_frontend-assembly-vote-manager)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=luizhenriqque18_frontend-assembly-vote-manager&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=luizhenriqque18_frontend-assembly-vote-manager)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=luizhenriqque18_frontend-assembly-vote-manager&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=luizhenriqque18_frontend-assembly-vote-manager)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
 
 ## Development server
